@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+#Bee{
+  width:200px ;
+  height:auto ;
+}
+
+#lol{ 
+color:white  
+}
+
+#pop{
+  font-size: 25px ;
+  color: white;
+}
+
+
+.IOI{
+  width:380px ;
+  height:215px ;
+}
+
+#pad{
+  margin-top: 20px;
+}
